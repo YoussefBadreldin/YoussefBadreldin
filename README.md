@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbadreldin)
 [![whatsapp](https://img.shields.io/badge/whatsapp-0F172A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201016587610)
-[![Email](https://img.shields.io/badge/Contact_Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmbadreldin@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmbadreldin@gmail.com)
 
 </div>
 
