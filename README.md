@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=210&section=header&text=Youssef%20Badreldin&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20System%20Architecture%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Applied%20AI&descSize=17&descAlignY=60&descColor=E2E8F0" alt="Youssef Badreldin Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=215&section=header&text=Youssef%20Badreldin&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20System%20Architecture%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Applied%20AI&descSize=17&descAlignY=60&descColor=E2E8F0" alt="Youssef Badreldin Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=740&lines=ABET-Accredited+(CAC)+Computer+Science+Graduate;End-to-End+Enterprise+%26+Full-Stack+System+Architecture;Applied+AI+%26+Multi-Agent+RAG+Systems+(87%25+Retrieval+Accuracy);ECPC+Competitive+Programming+Coach+%26+Former+Student+Union+President" alt="Core Pillars" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=ABET-Accredited+(CAC)+Computer+Science+Graduate;System+Architecture+%26+End-to-End+Enterprise+Delivery;Applied+AI+%26+Multi-Agent+RAG+Systems+(87%25+Retrieval+Accuracy);ECPC+Competitive+Programming+Coach+%26+Former+Student+Union+President" alt="Core Engineering Pillars" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssefbadreldin)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YoussefBadreldin)
+[![Phone](https://img.shields.io/badge/Phone-%2B20_101_658_7610-0F172A?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1E3A8A)](https://wa.me/201016587610)
 [![Email](https://img.shields.io/badge/Contact_Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefmbadreldin@gmail.com)
 
 </div>
@@ -39,22 +39,22 @@
 
 <table>
   <tr>
-    <td width="28%"><strong>Core Languages</strong></td>
+    <td width="27%"><strong>Core Languages</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=py,ts,js,cs,cpp,java,html,css" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=py,ts,js,cs,cpp,java,html,css" alt="Core Languages" />
     </td>
   </tr>
   <tr>
     <td><strong>Frontend & UI/UX</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vue,react,tailwind,dotnet,figma" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=vue,react,tailwind,dotnet,figma" alt="Frontend Frameworks" />
       <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
     </td>
   </tr>
   <tr>
     <td><strong>Backend & Databases</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb" alt="Backend and NoSQL" />
       <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
     </td>
@@ -70,10 +70,10 @@
     </td>
   </tr>
   <tr>
-    <td><strong>DevOps & Systems</strong></td>
+    <td><strong>DevOps & Architecture</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="DevOps and Systems" />
-      <img src="https://img.shields.io/badge/Microservices_%26_SOA-0F172A?style=flat-square&logoColor=white" alt="Microservices" />
+      <img src="https://skillicons.dev/icons?i=docker,linux,git" alt="DevOps and Tools" />
+      <img src="https://img.shields.io/badge/Microservices_%26_SOA-0F172A?style=flat-square&logoColor=white" alt="Microservices and SOA" />
       <img src="https://img.shields.io/badge/REST_%26_JWT_Auth-1E3A8A?style=flat-square&logoColor=white" alt="REST and JWT" />
     </td>
   </tr>
@@ -94,7 +94,17 @@
 
 ### Enterprise Institutional Platforms *(Private Production Repositories)*
 
-- **AIU Unified Institutional Portal & Official Website Revamp** (`C#`, `ASP.NET`, `Blazor`, `SQL Server`) — Architected and modernized core institutional self-service and admissions platforms serving **6,000+ students, faculty, alumni, and administrators**.
+- **AIU Unified Institutional Portal, Official Website Revamp & Admissions Platform** (`C#`, `ASP.NET Core`, `Blazor`, `SQL Server`) — Architected and modernized core institutional self-service, public web, and student admissions systems serving **6,000+ students, faculty, alumni, and administrators**.
+
+---
+
+### Experience, Leadership & Credentials
+
+- 💼 **Frontend & Full-Stack Engineer — Alamein International University (AIU)** *(2025 – 2026)*: Built and modernized centralized institutional portals, admissions workflows, and official web architecture (`C#`, `ASP.NET`, `Blazor`, `SQL Server`).
+- 🔬 **Software Engineering Intern — Virginia Tech** *(2023)*: Designed and built the **Sobek Transit** smart transportation platform (`Node.js`, `Express`, `MongoDB`, `EJS`), boosting user satisfaction by **90%**.
+- ⚙️ **Developer Intern — Information Technology Institute (ITI)** *(2022)*: Engineered a real-time concurrent chat system using `Java`, `JavaFX`, `Sockets`, `Multithreading`, and `JDBC`.
+- 🏛️ **President & Vice President — AIU Student Union** *(2022 – 2025)*: Led student advocacy and digital transformation initiatives across **6,000+ students**; **Co-Founder & Coach of AIU ICPC / ECPC Community** *(2021 – 2024)*, mentoring **100+ programmers** and **10+ regional teams**.
+- 🎓 **B.Sc. in Computer Science & Engineering (ABET-CAC Accredited)** — Alamein International University · **37 Verified Certifications** across AI/RAG, Microservices, Distributed Systems & Algorithms *(IBM, Vanderbilt, Rice, Univ. of Alberta, UC San Diego, KAIST, Duke)*.
 
 ---
 
